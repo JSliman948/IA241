@@ -37,5 +37,3 @@ for word in "This is my sixth string".split():
     print(word)
     epsilon = epsilon + 1
 print(epsilon)
-
-
